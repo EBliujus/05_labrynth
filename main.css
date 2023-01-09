@@ -13,7 +13,7 @@
 .right {
     width: 50%;
     float: left;
-    margin-top: 10px;
+    margin-top: 80px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -26,14 +26,14 @@
     line-height: 1em;
 }
 .description1 {
-    font-size: 16px;
+    font-size: 20px;
     color: #354B32;
     line-height: 1.2em;
     text-align: center;
     margin: 0;
 }
 .description2 {
-    font-size: 16px;
+    font-size: 20px;
     color: #A4A4A4;
     line-height: 1.2em;
     text-align: center; 
